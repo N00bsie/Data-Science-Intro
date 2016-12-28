@@ -19,4 +19,5 @@ if __name__ == "__main__":
     path_to_csv = "../Master.csv"
     path_to_new_csv = "../MasterNew.csv"
     add_full_name(path_to_csv, path_to_new_csv)
+    print("Done!")
         
